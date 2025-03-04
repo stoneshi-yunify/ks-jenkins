@@ -1,0 +1,10 @@
+plugins:
+  - groupId: io.jenkins.blueocean
+    artifactId: blueocean-executor-info
+    source:
+      version: 1.27.16
+  - groupId: org.jenkins-ci.ui
+    artifactId: handlebars
+    source:
+      version: 3.0.8
+    doNotUpdate: true
